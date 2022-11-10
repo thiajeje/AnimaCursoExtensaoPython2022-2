@@ -45,3 +45,7 @@ while(i<len(frutas)):
   print(frutas[i])
   i = i+1
 
+# Exemplo das frutas com FOR
+print("Exemplo das frutas com FOR")
+for fruta in frutas:
+  print(fruta)
